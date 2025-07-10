@@ -240,15 +240,14 @@ If the automated installation doesn't work:
    ```bash
    curl -fsSL https://ollama.ai/install.sh | sh
    ```
-2. **Start Ollama**:
-   ```bash
-   ollama serve
-   ```
-3. **Download Llama3**:
+2. **Download Llama3**:
    ```bash
    ollama pull llama3
    ```
-
+3. **Start Ollama**:
+   ```bash
+   ollama serve
+   ```
 
 ### Advanced Configuration
 
