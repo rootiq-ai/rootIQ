@@ -183,7 +183,7 @@ API_PORT=8000
 DEBUG=True
 
 # CORS Configuration
-ALLOWED_ORIGINS=["http://localhost:8501"],"http://127.0.0.1:8501"]
+ALLOWED_ORIGINS=["http://localhost:8501","http://127.0.0.1:8501"]
 ```
 
 5. **Run backend**:
